@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "12231657880",
+    "project_id": "volleyball-roster-list",
+    "storage_bucket": "volleyball-roster-list.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12231657880:android:2fba7ad03b99cb96fd43ed",
+        "android_client_info": {
+          "package_name": "com.example.volleyball_roster_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBETy_hT2Ld0cPS7V5opz7fqqB0J6ilVlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
